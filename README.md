@@ -9,12 +9,9 @@ npm install audio
 2. Add Your Music
 Create a folder named songs in the root of your project directory and add your .mp3 files into it
 
-
-├── songs/
-│   ├── track1.mp3
-│   └── track2.mp3
-├── package.json
-└── player.js
+folder/player.js
+folder/package.json
+folder/songs/        (store your mp3s hear)
 
 
 3. Run the Player: node player.js
